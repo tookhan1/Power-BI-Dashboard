@@ -1,5 +1,5 @@
 
-# POWER BI Projects 
+# POWER BI Competency
 ## Here is what my dashboard will demonstrate:
 
 * Create dynamic dashboards
