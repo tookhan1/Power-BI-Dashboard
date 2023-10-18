@@ -1,7 +1,6 @@
 
 # POWER BI Projects 
-
-Here is what my dashboard will demonstrate
+## Here is what my dashboard will demonstrate:
 
 * Create dynamic dashboards
 * Learn to gather data sets and use query
